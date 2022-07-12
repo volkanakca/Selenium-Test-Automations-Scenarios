@@ -1,3 +1,3 @@
-# Selenim Test Automation 
+# Selenium Test Automations Scenarios 
 Using Page Object Model
 Using Junit
